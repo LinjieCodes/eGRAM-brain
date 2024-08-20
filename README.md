@@ -2,7 +2,7 @@
 
 The eGRAM program identifies gene modules comprising co-expressed genes and their regulatory lncRNAs based on lncRNA/DNA bindings and gene expression correlations.
 
-There are two kinds of input files - (a) user data and (b) system data. The former has two files - (a) expression profile, (b) lncRNA target prediction. LncRNAs' targets are predicted using LongTarget (or the more rapid version Fasim). System data include human/mouse KEGG and wikipathway pathways downloaded from the KEGG and Wikipathways websites.
+There are two kinds of input files - (a) user data and (b) system data. The former has two files - (a) expression profile, (b) lncRNA target prediction. LncRNAs' targets are predicted using LongTarget (or the more rapid version Fasim). System data include KEGG pathway annotation files downloaded from the KEGG websites.
 
 # Requirements
 1. **Python**: >=3.7.0
